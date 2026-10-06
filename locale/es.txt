@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_1E07FE77_1085_4991_41AA_C80FADF656EA.label = Schüepwis 26a
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Schüepwis 26a
